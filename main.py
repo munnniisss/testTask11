@@ -131,8 +131,8 @@ def main(keyword, login, password):
 
 
 if __name__ == '__main__':
-    login = 'munnniisss'
-    password = 'az8794az'
+    login = ''
+    password = ''
     keyword = 'зов мебели'
 
     print(main(keyword, login, password))
